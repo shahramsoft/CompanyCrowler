@@ -1,0 +1,1014 @@
+[
+    {
+        "code": "008",
+        "text": "Albania"
+    },
+    {
+        "code": "004",
+        "text": "Afghanistan"
+    },
+    {
+        "code": "577",
+        "text": "Africa not elsewhere specified"
+    },
+    {
+        "code": "012",
+        "text": "Algeria"
+    },
+    {
+        "code": "636",
+        "text": "America not elsewhere specified"
+    },
+    {
+        "code": "016",
+        "text": "American Samoa"
+    },
+    {
+        "code": "020",
+        "text": "Andorra"
+    },
+    {
+        "code": "024",
+        "text": "Angola"
+    },
+    {
+        "code": "660",
+        "text": "Anguilla"
+    },
+    {
+        "code": "028",
+        "text": "Antigua and Barbuda"
+    },
+    {
+        "code": "899",
+        "text": "Area Nes"
+    },
+    {
+        "code": "032",
+        "text": "Argentina"
+    },
+    {
+        "code": "051",
+        "text": "Armenia"
+    },
+    {
+        "code": "533",
+        "text": "Aruba"
+    },
+    {
+        "code": "946",
+        "text": "Asia not elsewhere specified"
+    },
+    {
+        "code": "036",
+        "text": "Australia"
+    },
+    {
+        "code": "040",
+        "text": "Austria"
+    },
+    {
+        "code": "031",
+        "text": "Azerbaijan"
+    },
+    {
+        "code": "044",
+        "text": "Bahamas"
+    },
+    {
+        "code": "048",
+        "text": "Bahrain"
+    },
+    {
+        "code": "050",
+        "text": "Bangladesh"
+    },
+    {
+        "code": "052",
+        "text": "Barbados"
+    },
+    {
+        "code": "112",
+        "text": "Belarus"
+    },
+    {
+        "code": "056",
+        "text": "Belgium"
+    },
+    {
+        "code": "084",
+        "text": "Belize"
+    },
+    {
+        "code": "204",
+        "text": "Benin"
+    },
+    {
+        "code": "060",
+        "text": "Bermuda"
+    },
+    {
+        "code": "064",
+        "text": "Bhutan"
+    },
+    {
+        "code": "068",
+        "text": "Bolivia, Plurinational State of"
+    },
+    {
+        "code": "535",
+        "text": "Bonaire, Sint Eustatius and Saba"
+    },
+    {
+        "code": "070",
+        "text": "Bosnia and Herzegovina"
+    },
+    {
+        "code": "072",
+        "text": "Botswana"
+    },
+    {
+        "code": "074",
+        "text": "Bouvet Island"
+    },
+    {
+        "code": "076",
+        "text": "Brazil"
+    },
+    {
+        "code": "080",
+        "text": "British Antarctic Territory"
+    },
+    {
+        "code": "086",
+        "text": "British Indian Ocean Territory"
+    },
+    {
+        "code": "092",
+        "text": "British Virgin Islands"
+    },
+    {
+        "code": "096",
+        "text": "Brunei Darussalam"
+    },
+    {
+        "code": "100",
+        "text": "Bulgaria"
+    },
+    {
+        "code": "854",
+        "text": "Burkina Faso"
+    },
+    {
+        "code": "108",
+        "text": "Burundi"
+    },
+    {
+        "code": "132",
+        "text": "Cabo Verde"
+    },
+    {
+        "code": "116",
+        "text": "Cambodia"
+    },
+    {
+        "code": "120",
+        "text": "Cameroon"
+    },
+    {
+        "code": "124",
+        "text": "Canada"
+    },
+    {
+        "code": "129",
+        "text": "Caribbean Nes"
+    },
+    {
+        "code": "136",
+        "text": "Cayman Islands"
+    },
+    {
+        "code": "471",
+        "text": "Centr.Amer.Com.Market (CACM) Nes"
+    },
+    {
+        "code": "140",
+        "text": "Central African Republic"
+    },
+    {
+        "code": "148",
+        "text": "Chad"
+    },
+    {
+        "code": "152",
+        "text": "Chile"
+    },
+    {
+        "code": "156",
+        "text": "China"
+    },
+    {
+        "code": "162",
+        "text": "Christmas Island"
+    },
+    {
+        "code": "166",
+        "text": "Cocos (Keeling) Islands"
+    },
+    {
+        "code": "170",
+        "text": "Colombia"
+    },
+    {
+        "code": "174",
+        "text": "Comoros"
+    },
+    {
+        "code": "178",
+        "text": "Congo"
+    },
+    {
+        "code": "180",
+        "text": "Congo, Democratic Republic of the"
+    },
+    {
+        "code": "184",
+        "text": "Cook Islands"
+    },
+    {
+        "code": "188",
+        "text": "Costa Rica"
+    },
+    {
+        "code": "384",
+        "text": "Côte d'Ivoire"
+    },
+    {
+        "code": "191",
+        "text": "Croatia"
+    },
+    {
+        "code": "192",
+        "text": "Cuba"
+    },
+    {
+        "code": "531",
+        "text": "Curaçao"
+    },
+    {
+        "code": "196",
+        "text": "Cyprus"
+    },
+    {
+        "code": "203",
+        "text": "Czech Republic"
+    },
+    {
+        "code": "208",
+        "text": "Denmark"
+    },
+    {
+        "code": "262",
+        "text": "Djibouti"
+    },
+    {
+        "code": "212",
+        "text": "Dominica"
+    },
+    {
+        "code": "214",
+        "text": "Dominican Republic"
+    },
+    {
+        "code": "221",
+        "text": "East Europe not elsewhere specified"
+    },
+    {
+        "code": "218",
+        "text": "Ecuador"
+    },
+    {
+        "code": "818",
+        "text": "Egypt"
+    },
+    {
+        "code": "222",
+        "text": "El Salvador"
+    },
+    {
+        "code": "226",
+        "text": "Equatorial Guinea"
+    },
+    {
+        "code": "232",
+        "text": "Eritrea"
+    },
+    {
+        "code": "233",
+        "text": "Estonia"
+    },
+    {
+        "code": "748",
+        "text": "Eswatini"
+    },
+    {
+        "code": "231",
+        "text": "Ethiopia"
+    },
+    {
+        "code": "697",
+        "text": "Europe EFTA not elsewhere specified"
+    },
+    {
+        "code": "568",
+        "text": "Europe Othr. Nes"
+    },
+    {
+        "code": "492",
+        "text": "European Union Nes"
+    },
+    {
+        "code": "238",
+        "text": "Falkland Islands (Malvinas)"
+    },
+    {
+        "code": "234",
+        "text": "Faroe Islands"
+    },
+    {
+        "code": "242",
+        "text": "Fiji"
+    },
+    {
+        "code": "246",
+        "text": "Finland"
+    },
+    {
+        "code": "251",
+        "text": "France"
+    },
+    {
+        "code": "838",
+        "text": "Free Zones"
+    },
+    {
+        "code": "258",
+        "text": "French Polynesia"
+    },
+    {
+        "code": "260",
+        "text": "French Southern and Antarctic Territories"
+    },
+    {
+        "code": "266",
+        "text": "Gabon"
+    },
+    {
+        "code": "270",
+        "text": "Gambia"
+    },
+    {
+        "code": "268",
+        "text": "Georgia"
+    },
+    {
+        "code": "276",
+        "text": "Germany"
+    },
+    {
+        "code": "288",
+        "text": "Ghana"
+    },
+    {
+        "code": "292",
+        "text": "Gibraltar"
+    },
+    {
+        "code": "300",
+        "text": "Greece"
+    },
+    {
+        "code": "304",
+        "text": "Greenland"
+    },
+    {
+        "code": "308",
+        "text": "Grenada"
+    },
+    {
+        "code": "316",
+        "text": "Guam"
+    },
+    {
+        "code": "320",
+        "text": "Guatemala"
+    },
+    {
+        "code": "324",
+        "text": "Guinea"
+    },
+    {
+        "code": "624",
+        "text": "Guinea-Bissau"
+    },
+    {
+        "code": "328",
+        "text": "Guyana"
+    },
+    {
+        "code": "332",
+        "text": "Haiti"
+    },
+    {
+        "code": "340",
+        "text": "Honduras"
+    },
+    {
+        "code": "344",
+        "text": "Hong Kong, China"
+    },
+    {
+        "code": "348",
+        "text": "Hungary"
+    },
+    {
+        "code": "352",
+        "text": "Iceland"
+    },
+    {
+        "code": "699",
+        "text": "India"
+    },
+    {
+        "code": "360",
+        "text": "Indonesia"
+    },
+    {
+        "code": "364",
+        "text": "Iran, Islamic Republic of"
+    },
+    {
+        "code": "368",
+        "text": "Iraq"
+    },
+    {
+        "code": "372",
+        "text": "Ireland"
+    },
+    {
+        "code": "376",
+        "text": "Israel"
+    },
+    {
+        "code": "381",
+        "text": "Italy"
+    },
+    {
+        "code": "388",
+        "text": "Jamaica"
+    },
+    {
+        "code": "392",
+        "text": "Japan"
+    },
+    {
+        "code": "400",
+        "text": "Jordan"
+    },
+    {
+        "code": "398",
+        "text": "Kazakhstan"
+    },
+    {
+        "code": "404",
+        "text": "Kenya"
+    },
+    {
+        "code": "296",
+        "text": "Kiribati"
+    },
+    {
+        "code": "408",
+        "text": "Korea, Democratic People's Republic of"
+    },
+    {
+        "code": "410",
+        "text": "Korea, Republic of"
+    },
+    {
+        "code": "414",
+        "text": "Kuwait"
+    },
+    {
+        "code": "417",
+        "text": "Kyrgyzstan"
+    },
+    {
+        "code": "473",
+        "text": "LAIA not elsewhere specified"
+    },
+    {
+        "code": "418",
+        "text": "Lao People's Democratic Republic"
+    },
+    {
+        "code": "428",
+        "text": "Latvia"
+    },
+    {
+        "code": "422",
+        "text": "Lebanon"
+    },
+    {
+        "code": "426",
+        "text": "Lesotho"
+    },
+    {
+        "code": "430",
+        "text": "Liberia"
+    },
+    {
+        "code": "434",
+        "text": "Libya, State of"
+    },
+    {
+        "code": "440",
+        "text": "Lithuania"
+    },
+    {
+        "code": "442",
+        "text": "Luxembourg"
+    },
+    {
+        "code": "446",
+        "text": "Macao, China"
+    },
+    {
+        "code": "807",
+        "text": "Macedonia, North"
+    },
+    {
+        "code": "450",
+        "text": "Madagascar"
+    },
+    {
+        "code": "454",
+        "text": "Malawi"
+    },
+    {
+        "code": "458",
+        "text": "Malaysia"
+    },
+    {
+        "code": "462",
+        "text": "Maldives"
+    },
+    {
+        "code": "466",
+        "text": "Mali"
+    },
+    {
+        "code": "470",
+        "text": "Malta"
+    },
+    {
+        "code": "584",
+        "text": "Marshall Islands"
+    },
+    {
+        "code": "478",
+        "text": "Mauritania"
+    },
+    {
+        "code": "480",
+        "text": "Mauritius"
+    },
+    {
+        "code": "175",
+        "text": "Mayotte"
+    },
+    {
+        "code": "484",
+        "text": "Mexico"
+    },
+    {
+        "code": "583",
+        "text": "Micronesia, Federated States of"
+    },
+    {
+        "code": "498",
+        "text": "Moldova, Republic of"
+    },
+    {
+        "code": "496",
+        "text": "Mongolia"
+    },
+    {
+        "code": "499",
+        "text": "Montenegro"
+    },
+    {
+        "code": "500",
+        "text": "Montserrat"
+    },
+    {
+        "code": "504",
+        "text": "Morocco"
+    },
+    {
+        "code": "508",
+        "text": "Mozambique"
+    },
+    {
+        "code": "104",
+        "text": "Myanmar"
+    },
+    {
+        "code": "516",
+        "text": "Namibia"
+    },
+    {
+        "code": "520",
+        "text": "Nauru"
+    },
+    {
+        "code": "524",
+        "text": "Nepal"
+    },
+    {
+        "code": "528",
+        "text": "Netherlands"
+    },
+    {
+        "code": "530",
+        "text": "Netherlands Antilles"
+    },
+    {
+        "code": "536",
+        "text": "Neutral Zone"
+    },
+    {
+        "code": "540",
+        "text": "New Caledonia"
+    },
+    {
+        "code": "554",
+        "text": "New Zealand"
+    },
+    {
+        "code": "558",
+        "text": "Nicaragua"
+    },
+    {
+        "code": "562",
+        "text": "Niger"
+    },
+    {
+        "code": "566",
+        "text": "Nigeria"
+    },
+    {
+        "code": "570",
+        "text": "Niue"
+    },
+    {
+        "code": "574",
+        "text": "Norfolk Island"
+    },
+    {
+        "code": "290",
+        "text": "North Africa not elsewhere specified"
+    },
+    {
+        "code": "637",
+        "text": "North America and Central America, nes"
+    },
+    {
+        "code": "580",
+        "text": "Northern Mariana Islands"
+    },
+    {
+        "code": "579",
+        "text": "Norway"
+    },
+    {
+        "code": "527",
+        "text": "Oceania Nes"
+    },
+    {
+        "code": "512",
+        "text": "Oman"
+    },
+    {
+        "code": "586",
+        "text": "Pakistan"
+    },
+    {
+        "code": "585",
+        "text": "Palau"
+    },
+    {
+        "code": "275",
+        "text": "Palestine, State of"
+    },
+    {
+        "code": "591",
+        "text": "Panama"
+    },
+    {
+        "code": "598",
+        "text": "Papua New Guinea"
+    },
+    {
+        "code": "600",
+        "text": "Paraguay"
+    },
+    {
+        "code": "604",
+        "text": "Peru"
+    },
+    {
+        "code": "608",
+        "text": "Philippines"
+    },
+    {
+        "code": "612",
+        "text": "Pitcairn"
+    },
+    {
+        "code": "616",
+        "text": "Poland"
+    },
+    {
+        "code": "620",
+        "text": "Portugal"
+    },
+    {
+        "code": "634",
+        "text": "Qatar"
+    },
+    {
+        "code": "642",
+        "text": "Romania"
+    },
+    {
+        "code": "643",
+        "text": "Russian Federation"
+    },
+    {
+        "code": "646",
+        "text": "Rwanda"
+    },
+    {
+        "code": "654",
+        "text": "Saint Helena"
+    },
+    {
+        "code": "659",
+        "text": "Saint Kitts and Nevis"
+    },
+    {
+        "code": "662",
+        "text": "Saint Lucia"
+    },
+    {
+        "code": "666",
+        "text": "Saint Pierre and Miquelon"
+    },
+    {
+        "code": "670",
+        "text": "Saint Vincent and the Grenadines"
+    },
+    {
+        "code": "882",
+        "text": "Samoa"
+    },
+    {
+        "code": "678",
+        "text": "Sao Tome and Principe"
+    },
+    {
+        "code": "682",
+        "text": "Saudi Arabia"
+    },
+    {
+        "code": "686",
+        "text": "Senegal"
+    },
+    {
+        "code": "688",
+        "text": "Serbia"
+    },
+    {
+        "code": "891",
+        "text": "Serbia and Montenegro"
+    },
+    {
+        "code": "690",
+        "text": "Seychelles"
+    },
+    {
+        "code": "837",
+        "text": "Ship stores and bunkers"
+    },
+    {
+        "code": "694",
+        "text": "Sierra Leone"
+    },
+    {
+        "code": "702",
+        "text": "Singapore"
+    },
+    {
+        "code": "534",
+        "text": "Sint Maarten (Dutch part)"
+    },
+    {
+        "code": "703",
+        "text": "Slovakia"
+    },
+    {
+        "code": "705",
+        "text": "Slovenia"
+    },
+    {
+        "code": "090",
+        "text": "Solomon Islands"
+    },
+    {
+        "code": "706",
+        "text": "Somalia"
+    },
+    {
+        "code": "710",
+        "text": "South Africa"
+    },
+    {
+        "code": "728",
+        "text": "South Sudan"
+    },
+    {
+        "code": "724",
+        "text": "Spain"
+    },
+    {
+        "code": "839",
+        "text": "Special categories"
+    },
+    {
+        "code": "144",
+        "text": "Sri Lanka"
+    },
+    {
+        "code": "729",
+        "text": "Sudan"
+    },
+    {
+        "code": "736",
+        "text": "Sudan (before 2012)"
+    },
+    {
+        "code": "740",
+        "text": "Suriname"
+    },
+    {
+        "code": "752",
+        "text": "Sweden"
+    },
+    {
+        "code": "757",
+        "text": "Switzerland"
+    },
+    {
+        "code": "760",
+        "text": "Syrian Arab Republic"
+    },
+    {
+        "code": "490",
+        "text": "Taipei, Chinese"
+    },
+    {
+        "code": "762",
+        "text": "Tajikistan"
+    },
+    {
+        "code": "834",
+        "text": "Tanzania, United Republic of"
+    },
+    {
+        "code": "999",
+        "text": "Territory not allocated"
+    },
+    {
+        "code": "764",
+        "text": "Thailand"
+    },
+    {
+        "code": "626",
+        "text": "Timor-Leste"
+    },
+    {
+        "code": "768",
+        "text": "Togo"
+    },
+    {
+        "code": "772",
+        "text": "Tokelau"
+    },
+    {
+        "code": "776",
+        "text": "Tonga"
+    },
+    {
+        "code": "780",
+        "text": "Trinidad and Tobago"
+    },
+    {
+        "code": "788",
+        "text": "Tunisia"
+    },
+    {
+        "code": "792",
+        "text": "Türkiye"
+    },
+    {
+        "code": "795",
+        "text": "Turkmenistan"
+    },
+    {
+        "code": "796",
+        "text": "Turks and Caicos Islands"
+    },
+    {
+        "code": "798",
+        "text": "Tuvalu"
+    },
+    {
+        "code": "800",
+        "text": "Uganda"
+    },
+    {
+        "code": "804",
+        "text": "Ukraine"
+    },
+    {
+        "code": "784",
+        "text": "United Arab Emirates"
+    },
+    {
+        "code": "826",
+        "text": "United Kingdom"
+    },
+    {
+        "code": "849",
+        "text": "United States Minor Outlying Islands"
+    },
+    {
+        "code": "842",
+        "text": "United States of America"
+    },
+    {
+        "code": "858",
+        "text": "Uruguay"
+    },
+    {
+        "code": "860",
+        "text": "Uzbekistan"
+    },
+    {
+        "code": "548",
+        "text": "Vanuatu"
+    },
+    {
+        "code": "862",
+        "text": "Venezuela, Bolivarian Republic of"
+    },
+    {
+        "code": "704",
+        "text": "Viet Nam"
+    },
+    {
+        "code": "876",
+        "text": "Wallis and Futuna Islands"
+    },
+    {
+        "code": "879",
+        "text": "West Asia not elsewhere specified"
+    },
+    {
+        "code": "732",
+        "text": "Western Sahara"
+    },
+    {
+        "code": "887",
+        "text": "Yemen"
+    },
+    {
+        "code": "894",
+        "text": "Zambia"
+    },
+    {
+        "code": "716",
+        "text": "Zimbabwe"
+    }
+]
