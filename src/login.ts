@@ -7,14 +7,22 @@ export async function loggedInCheck(page: Page) {
   return !!el;
 }
 
-export async function loginToTrademap(page: Page, email: string) {
-
+export async function goToLogin(page: Page) {
+  console.log("====> GO TO LOGIN PAGE <====");
   await page.waitForSelector("#ctl00_MenuControl_li_marmenu_login");
   await new Promise((r) => setTimeout(r, 2000));
   await page.click("#ctl00_MenuControl_li_marmenu_login");
+}
+
+export async function loginToTrademap(page: Page, email: string) {
+  console.log("====> LOGIN PROCESS <====");
+
+  console.log("====> WAIT FOR #Username <====")
   await page.waitForSelector("#Username");
   await page.type("#Username", email, { delay: 50 });
   await page.type("#Password", "Abc1234@$", { delay: 50 });
+  console.log("====> WAIT FOR .switch-remember <====")
+  await page.waitForSelector(".switch-remember");
   await page.click(".switch-remember");
   await page.click('[value="login"]');
   await page.waitForSelector("#div_logoLeft");
